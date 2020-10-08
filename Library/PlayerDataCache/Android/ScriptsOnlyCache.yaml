@@ -698,4 +698,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/WabStudioTest/WabStudio/RunnerBuild1.apk
+  playerPath: D:/WabStudioTest/WabStudio/RunnerBuild3.apk

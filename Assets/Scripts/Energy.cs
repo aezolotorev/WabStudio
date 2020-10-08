@@ -24,7 +24,12 @@ public class Energy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        currentenergy -= 9f*Time.deltaTime;
+        if (currentenergy < 100)
+        {
+            currentenergy -= 9f * Time.deltaTime;
+            if (currentenergy < 1)
+                currentenergy = 1;
+        }
         if (currentenergy < 1)
             currentenergy = 1;
         if (currentenergy >= 100)
