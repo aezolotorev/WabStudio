@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake()
     {
-        prefinish.SetActive(true);
+        //prefinish.SetActive(true);
     }
 
     void Start()
@@ -56,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
         BannerView bannerView = new BannerView(banner, AdSize.Banner, AdPosition.Bottom);
         AdRequest request = new AdRequest.Builder().AddTestDevice(AdRequest.TestDeviceSimulator).AddTestDevice("F5695C1E268D083B").Build();
         bannerView.LoadAd(request);
-        prefinish.SetActive(false);
+        //prefinish.SetActive(false);
     }
     void FixedUpdate()
     {

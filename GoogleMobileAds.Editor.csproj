@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BA8E1AE8-CCFB-95FE-1E0E-B693E9A765D5}</ProjectGuid>
+    <ProjectGuid>{C8CAC693-AFA8-BE52-167F-9C8A262EC57A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>GoogleMobileAds.Editor</AssemblyName>
@@ -69,17 +69,17 @@
     <Compile Include="Assets\GoogleMobileAds\Editor\PListProcessor.cs" />
     <None Include="Assets\GoogleMobileAds\Editor\GoogleMobileAds.Editor.asmdef" />
     <None Include="Assets\GoogleMobileAds\Editor\GoogleMobileAdsDependencies.xml" />
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -298,22 +298,22 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -678,7 +678,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="GoogleMobileAds.csproj">
-      <Project>{2E45AB55-C0F3-BA1C-F349-18AEA811E89F}</Project>
+      <Project>{9D8B8028-0B8B-CC5C-6D1C-FB826E3D0A14}</Project>
       <Name>GoogleMobileAds</Name>
     </ProjectReference>
   </ItemGroup>

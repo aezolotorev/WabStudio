@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2E45AB55-C0F3-BA1C-F349-18AEA811E89F}</ProjectGuid>
+    <ProjectGuid>{9D8B8028-0B8B-CC5C-6D1C-FB826E3D0A14}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>GoogleMobileAds</AssemblyName>
@@ -137,11 +137,11 @@
     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Utils.cs" />
     <Compile Include="Assets\GoogleMobileAds\Platforms\Unity\InitializationStatusDummyClient.cs" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.asmdef" />
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -354,19 +354,19 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5A0769DA-25DA-A68D-BA58-6ED404CB536B}</ProjectGuid>
+    <ProjectGuid>{1FC6F58B-43C8-4B7C-BC36-08445E8CDFB1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -67,37 +67,37 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/wab studio/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -316,22 +316,22 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.160">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.google.external-dependency-manager@1.2.160/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/wab studio/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/WabStudioTest/WabStudio/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Unity/2019.2.7f2/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -696,15 +696,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</Project>
+      <Project>{AA23B406-D625-CF24-2852-9E94BA8D9D36}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="GoogleMobileAds.csproj">
-      <Project>{2E45AB55-C0F3-BA1C-F349-18AEA811E89F}</Project>
+      <Project>{9D8B8028-0B8B-CC5C-6D1C-FB826E3D0A14}</Project>
       <Name>GoogleMobileAds</Name>
     </ProjectReference>
     <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{BA8E1AE8-CCFB-95FE-1E0E-B693E9A765D5}</Project>
+      <Project>{C8CAC693-AFA8-BE52-167F-9C8A262EC57A}</Project>
       <Name>GoogleMobileAds.Editor</Name>
     </ProjectReference>
   </ItemGroup>
